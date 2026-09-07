@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="40%"/>
+<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="40%"/> -->
 
-<h1>Hi, I'm Aly Eldee<b></b>b</h1>
+<h1>I'm Ali Eldee<b></b>b</h1>
 
 <h3>Frontend Developer</h3>
 
