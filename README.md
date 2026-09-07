@@ -49,7 +49,7 @@ Building responsive, interactive, and user-focused web applications.
 </a>
 &nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:eldeebali01@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -131,20 +131,6 @@ My current focus includes:
 * Clean and Maintainable Code
 * Building Production-Ready Applications
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aly-Eldeeb&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-Eldeeb&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
-
 ## Featured Projects
 
 I use GitHub to document my projects, experiments, and progress as a Frontend Developer.
@@ -163,18 +149,8 @@ Some of my projects include applications built with:
 
 <div align="center">
 
-<a href="https://github.com/Aly-Eldeeb">
+<a href="https://github.com/AliEldeeb-01">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-</div>
-
-اضف لينكات التواصل كما هو موضح فالصوره دون اي تغيير اخر
