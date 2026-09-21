@@ -1,6 +1,10 @@
+
+
+
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<img src="https://github.com/user-attachments/assets/9143afac-241f-4b57-a41b-296dd91e37c5" alt="Hello Coders" width="60%"/>
 
 <br>
 
