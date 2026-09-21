@@ -7,9 +7,13 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/7fbf303e-ef7a-43f0-8496-1fb5ca056af9" alt="Hello Coders" width="60%"/>
 
-<br>
+
+<!-- <img src="" alt="Hello Coders" width="60%"/> -->
+ <img width="368" height="207" alt="github_readme_animation" src="https://github.com/user-attachments/assets/b77efc86-d032-463a-9098-1c17903ece0a" /> 
+
+<!-- <img width="692" height="388" alt="video_2026-09-21_17-26-12" src="https://github.com/user-attachments/assets/b77efc86-d032-463a-9098-1c17903ece0a" /> -->
+
 
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="40%"/> -->
 
