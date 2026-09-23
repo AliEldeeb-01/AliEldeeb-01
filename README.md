@@ -154,14 +154,4 @@ Some of my projects include applications built with:
 * Supabase
 * REST APIs
 
----
 
-## Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AliEldeeb-01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
