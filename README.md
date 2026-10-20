@@ -54,13 +54,13 @@ Building responsive, interactive, and user-focused web applications.
 <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
-
-<a href="YOUR_TIKTOK_LINK">
-<img src="https://img.shields.io/badge/TIKTOK-FOLLOW-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+ 
+<a href="https://www.linkedin.com/in/ali-eldeeb-bb2235445/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow me on LinkedIn"/>
 </a>
-&nbsp;
 
 <a href="mailto:eldeebali01@gmail.com">
+
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
